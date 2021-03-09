@@ -1,0 +1,73 @@
+body {
+     margin: 0px;
+	 text-align:center;
+     }
+.topcontainer {
+    position: relative;
+	padding-top:50px;
+	background-image:url('../images/wallpaper.png');
+     background-repeat:no-repeat;
+	height:650px;
+	background-size: 100%;
+    }
+h1 {
+    margin: 0px;
+	color:white;
+	font-family:'Redressed', cursive;
+	font-size:40px;
+   }
+ p {
+   color: white;
+   font-family: 'Oswald', sans-serif;
+   font-size:20px;
+   margin: 0px;
+    }
+.middlecontainer{
+                background-color: #fff9b0;
+				}
+.bottom {
+         background-color: #edeef7;
+          }
+.img1 {
+       height:260px;
+	   width:260px;
+	   margin: 0px;
+      }
+.intro {
+       color:black;
+       }
+.copy {
+       color: black;
+  font-size: 1rem;
+  padding: 20px 0;
+       }
+.h2 {
+    margin:0px;
+    }
+.btn{
+     border-radius:40px;
+	 width:150px;
+	 box-shadow:4px 4px 2px grey;
+	 background-color: cyan;
+	 margin: 10px;
+     }
+.btn:hover {
+            background-color:red;
+            }
+hr {
+    border:dotted black 6px;
+  border-bottom: none;
+  margin:100px auto;
+  width: 5%;
+    }
+.cm {
+     color:black;
+    }
+.i {
+    height:150px;
+	width: 150px;
+	display:inline
+    }
+.copy {
+       
+       }
