@@ -24,7 +24,7 @@ h1 {
     }
 .middlecontainer{
                 background-color: #fff9b0;
-				}
+			padding-top:50px;	}
 .bottom {
          background-color: #edeef7;
           }
@@ -52,7 +52,9 @@ h1 {
 	 margin: 10px;
      }
 .btn:hover {
-            background-color:red;
+            background-color:red; 
+	
+	
             }
 hr {
     border:dotted black 6px;
